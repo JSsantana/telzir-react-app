@@ -1,0 +1,16 @@
+.main-title{
+    text-align: center;
+}
+
+.main-title p{
+    font-weight: 400;
+    font-size: 25px;
+}
+
+
+.main-title p em{
+    font-weight: 700;
+    font-size: 25px;
+    color: #006ACB;
+    font-style: normal;
+}

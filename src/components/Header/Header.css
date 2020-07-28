@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    justify-content: space-between;
+}
+
+header .contact-info{
+    align-items: center;
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+}

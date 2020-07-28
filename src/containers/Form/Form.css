@@ -1,0 +1,34 @@
+.main-form {
+  text-align: center;
+}
+
+.form-container {
+  border: 1px solid #006acb;
+  border-radius: 5px;
+  padding-bottom: 30px;
+  background-color: #fff;
+}
+
+select {
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid #006acb;
+  margin-bottom: 10px;
+  height: 60px;
+  width: 80%;
+}
+
+input[type="number"] {
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid #006acb;
+  margin-bottom: 10px;
+  height: 60px;
+  width: 80%;
+}
+
+label {
+  margin-left: 35px;
+  text-align: left;
+  display: block;
+}
